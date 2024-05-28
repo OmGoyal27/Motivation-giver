@@ -1,1 +1,1 @@
-Hello evryone! This project gives you a motivational quote.
+Hello everyone! This project gives you a motivational quote.
